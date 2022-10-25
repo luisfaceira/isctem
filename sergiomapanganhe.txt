@@ -1,8 +1,13 @@
 testecommit
 Mais alterações a este ficheiro
+
 Vamos aqui colocar algumas alteracoes.
 Jogadores mais famosos
 (a) Nico de Sousa
 (b) Danger man
 (c) Chababe
 Mais alteracoes aqui. vamos ver
+
+Coloquemos então aqui alteracoes completamente diferentes das que temoos
+no ficheiro do main
+
