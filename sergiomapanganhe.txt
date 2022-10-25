@@ -1,2 +1,4 @@
 testecommit
 Mais alterações a este ficheiro
+Coloquemos então aqui alteracoes completamente diferentes das que temoos
+no ficheiro do main
